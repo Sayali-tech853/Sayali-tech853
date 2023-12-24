@@ -1,7 +1,6 @@
-[![MasterHead](https://wifflegif.com/gifs/613693-creative-coding-black-and-white-gif)
 <h1 align="center">Hi 👋, I'm Sayali</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/premium-vector/girl-coding-with-laptop-illustration_27976285.htm">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayali-tech853&label=Profile%20views&color=0e75b6&style=flat" alt="sayali-tech853" /> </p>
 
