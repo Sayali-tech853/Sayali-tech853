@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@shivpujesayali.2243](https://medium.com/@shivpujesayali.2243)
 
-- 💬 Ask me about **Frontend Development, Databases, Machine Learning, Data analysis,**
+- 💬 Ask me about **Frontend Development, Databases, Machine Learning, Data analysis**
 
 - 📫 How to reach me **shivpujesayali.2243@gmail.com**
 
