@@ -12,7 +12,7 @@
 - 💬 Ask me about **Frontend Development, Databases, Machine Learning, Data analysis**
 
 - 📫 How to reach me **shivpujesayali.2243@gmail.com**
-
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
 
 
 <h3 align="left">Connect with me:</h3>
