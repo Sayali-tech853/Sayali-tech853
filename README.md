@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sayali</h1>
-<h3 align="center">Aspiring Data Scientist from India</h3>
+<h3 align="center">Aspiring Computer Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayali-tech853&label=Profile%20views&color=0e75b6&style=flat" alt="sayali-tech853" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayali-tech853" alt="sayali-tech853" /></a> </p>
 
-- 🌱 I’m currently learning **Data analysis,Data Visualization ,Machine Learning Using Python Programming**
-
-- 💬 Ask me about **Frontend Development, Databases, Machine Learning, Data analysis**
+- 💬 Ask me about **Frontend Development,Bckend Development, Databases, Machine Learning, Data analysis**
 
 - 📫 How to reach me **shivpujesayali.2243@gmail.com**
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
