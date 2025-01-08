@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayali-tech853" alt="sayali-tech853" /></a> </p>
 
-- 💬 Ask me about **Frontend Development,Bckend Development, Databases, Machine Learning, Data analysis**
+- 💬 Ask me about **Frontend Development,Backend Development, Databases, Machine Learning, Data analysis**
 
 - 📫 How to reach me **shivpujesayali.2243@gmail.com**
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
