@@ -5,40 +5,41 @@ Hello! I'm a Computer Science graduate with a passion for software development, 
 
 ---
 
-### A Bit About Me
+### 🎓 Education & Experience
 
-- 🎓 **Education:** I recently graduated with a Bachelor of Engineering in Computer Science (2025) from Savitribai Phule Pune University, where I earned a First Class with Distinction (CGPA: 8.43/10). My studies provided a strong foundation in programming, algorithms, and system design.
-- 💼 **Experience:** I've had the opportunity to gain hands-on experience as a **Software Development Intern** at PHN Technology Pvt. Ltd. and a **Data Science Intern** at Advansphere.
-- 🌟 **Open Source:** I'm an active contributor to the tech community, including through my work with **GirlScript Summer of Code (GSSoC)**, where I've contributed to meaningful web development and data science projects.
+- **Education:** I recently graduated with a Bachelor of Engineering in Computer Science (2025) from Savitribai Phule Pune University, where I earned a First Class with Distinction (CGPA: 8.43/10). My studies provided a strong foundation in programming, algorithms, and system design.
+- **Professional Experience:** I've had the opportunity to gain hands-on experience as a **Software Development Intern** at PHN Technology Pvt. Ltd. and a **Data Science Intern** at Advansphere.
+- **Open Source Contributions:** I'm an active contributor to the tech community, including through my work with **GirlScript Summer of Code (GSSoC)**, where I've contributed to meaningful web development and data science projects.
 
 ---
 
-### My Technical Toolbox
+### 🔧 My Technical Toolbox
 
 Here's a quick look at the technologies and concepts I've worked with:
 
 | Category | Tools & Concepts |
 |---|---|
-| **Programming Languages** | Python, Java, SQL |
-| **Databases & Web Services** | MySQL, REST APIs, POSTMAN |
+| **Programming Languages** | Python, Java, SQL, JavaScript |
+| **Databases & Web Services** | MySQL, MongoDB, REST APIs, POSTMAN |
 | **Development Tools** | Visual Studio, Jupyter Notebook, Git, Jira |
-| **Frameworks & Libraries** | Spring Boot, Flask, NumPy, Pandas, Matplotlib, Sci-kit Learn |
+| **Frameworks & Libraries** | Spring Boot, Flask, Node.js, React, NumPy, Pandas, Matplotlib, Sci-kit Learn |
+| **Web Technologies** | HTML5, CSS3 |
 | **Key Concepts** | Object-Oriented Programming (OOPs), Data Structures & Algorithms, Authentication & Authorization, API Integration, Agile / Scrum Exposure, GenAI, Prompt Engineering |
 
 ---
 
-### Connect with Me
+### 📊 GitHub Stats & Activity
 
-- 💬 **Ask me about:** Backend Development, Databases, Machine Learning, Data Analysis, and Web Development.
-- 📫 **How to reach me:** You can email me at **shivpujesayali.2243@gmail.com**
-
-Let's connect and build the future of technology together! 🚀
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayali-tech853&show_icons=true&locale=en&theme=radical" alt="Sayali's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayali-tech853&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayali-tech853&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://raw.githubusercontent.com/sayali-tech853/sayali-tech853/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</div>
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayali-tech853&label=Profile%20views&color=0e75b6&style=flat" alt="sayali-tech853" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayali-tech853" alt="sayali-tech853" /></a> </p>
+### 🌐 My Skills
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -62,8 +63,14 @@ Let's connect and build the future of technology together! 🚀
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
   </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
@@ -74,13 +81,16 @@ Let's connect and build the future of technology together! 🚀
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayali-tech853&show_icons=true&locale=en&layout=compact" alt="sayali-tech853" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayali-tech853&show_icons=true&locale=en" alt="sayali-tech853" /></p>
+### 👋 Let's Connect!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayali-tech853&" alt="sayali-tech853" /></p>
+- 📫 **How to reach me:** shivpujesayali.2243@gmail.com
